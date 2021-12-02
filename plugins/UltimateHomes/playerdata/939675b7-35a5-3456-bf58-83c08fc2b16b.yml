@@ -1,0 +1,11 @@
+player:
+  info:
+    lastSeenAs: wxis_b
+homes:
+  home:
+    x: -192
+    y: 62
+    z: -1569
+    yaw: -1.8996598
+    pitch: 59.950085
+    world: world

@@ -1,0 +1,25 @@
+player:
+  info:
+    lastSeenAs: Maxl2oss
+homes:
+  home:
+    x: -281
+    y: 85
+    z: -1309
+    yaw: 172.10002
+    pitch: 13.050005
+    world: world
+  farm:
+    x: -235
+    y: 101
+    z: -1344
+    yaw: -160.85608
+    pitch: 21.600065
+    world: world
+  sugar:
+    x: -150
+    y: 63
+    z: -1323
+    yaw: -65.3042
+    pitch: 7.9500856
+    world: world

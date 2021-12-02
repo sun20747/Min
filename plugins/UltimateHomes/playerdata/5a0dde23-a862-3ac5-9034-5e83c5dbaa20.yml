@@ -1,0 +1,11 @@
+player:
+  info:
+    lastSeenAs: FIZIcek_cz
+homes:
+  home:
+    x: -274
+    y: 85
+    z: -1307
+    yaw: -53.348663
+    pitch: 20.750084
+    world: world

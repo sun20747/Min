@@ -1,0 +1,11 @@
+player:
+  info:
+    lastSeenAs: .Minza007
+homes:
+  home:
+    x: -230
+    y: 111
+    z: -1302
+    yaw: 46.753036
+    pitch: 29.488007
+    world: world

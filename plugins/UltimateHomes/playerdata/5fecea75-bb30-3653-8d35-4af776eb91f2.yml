@@ -1,0 +1,11 @@
+player:
+  info:
+    lastSeenAs: Atit
+homes:
+  home:
+    x: -203
+    y: 64
+    z: -1558
+    yaw: 68.45005
+    pitch: -1.9000124
+    world: world
