@@ -253,12 +253,6 @@
     },
     "done": true
   },
-  "tsurvival:tsurv.iron.1a.2a": {
-    "criteria": {
-      "mining": "2021-12-01 23:58:24 +0700"
-    },
-    "done": true
-  },
   "blazeandcave:redstone/root": {
     "criteria": {
       "redstone": "2021-12-02 08:35:13 +0700"
@@ -396,12 +390,6 @@
     },
     "done": true
   },
-  "tsurvival:tsurv.start.0a.1a": {
-    "criteria": {
-      "craftcampfire": "2021-12-02 12:48:05 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2021-12-01 23:59:34 +0700"
@@ -490,12 +478,6 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2021-12-02 10:01:12 +0700"
-    },
-    "done": true
-  },
-  "tsurvival:tsurv.key.2a.3b": {
-    "criteria": {
-      "lantern": "2021-12-02 00:26:18 +0700"
     },
     "done": true
   },
@@ -697,12 +679,6 @@
     },
     "done": true
   },
-  "tsurvival:tsurv.iron.2a.3b": {
-    "criteria": {
-      "shears": "2021-12-02 08:27:51 +0700"
-    },
-    "done": true
-  },
   "blazeandcave:building/shroom_lightyear": {
     "criteria": {
       "shroomlight": "2021-12-03 00:15:47 +0700"
@@ -736,12 +712,6 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2021-12-02 10:26:33 +0700"
-    },
-    "done": true
-  },
-  "tsurvival:tsurv.key.1a.2a": {
-    "criteria": {
-      "sleeping": "2021-12-02 00:27:40 +0700"
     },
     "done": true
   },
@@ -823,12 +793,6 @@
     },
     "done": true
   },
-  "global:devonsdesk": {
-    "criteria": {
-      "trigger": "2021-12-01 23:27:41 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2021-12-01 23:30:12 +0700"
@@ -882,12 +846,6 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2021-12-02 00:00:25 +0700"
-    },
-    "done": true
-  },
-  "tsurvival:tsurv.end.1a.2a": {
-    "criteria": {
-      "emeralds": "2021-12-01 23:46:12 +0700"
     },
     "done": true
   },
@@ -1133,12 +1091,6 @@
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2021-12-03 00:56:38 +0700"
-    },
-    "done": true
-  },
-  "tsurvival:tsurv.iron.3b.4a": {
-    "criteria": {
-      "grass": "2021-12-01 23:47:27 +0700"
     },
     "done": true
   },
@@ -2555,12 +2507,6 @@
     },
     "done": true
   },
-  "tsurvival:tsurv.root.0x.0a": {
-    "criteria": {
-      "Welcome": "2021-12-01 23:27:41 +0700"
-    },
-    "done": true
-  },
   "blazeandcave:enchanting/overkill": {
     "criteria": {
       "overkill": "2021-12-02 00:34:20 +0700"
@@ -2923,12 +2869,6 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2021-12-02 20:21:39 +0700"
-    },
-    "done": true
-  },
-  "tsurvival:tsurv.installed": {
-    "criteria": {
-      "trigger": "2021-12-01 23:27:41 +0700"
     },
     "done": true
   },
@@ -3590,12 +3530,6 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-12-01 23:55:27 +0700"
-    },
-    "done": true
-  },
-  "global:root": {
-    "criteria": {
-      "trigger": "2021-12-01 23:27:42 +0700"
     },
     "done": true
   },
@@ -4616,12 +4550,6 @@
   "blazeandcave:mining/meet_the_flintstones": {
     "criteria": {
       "flint": "2021-12-03 02:28:26 +0700"
-    },
-    "done": true
-  },
-  "tsurvival:tsurv.key.3a.4a": {
-    "criteria": {
-      "enteringdeep": "2021-12-02 09:45:58 +0700"
     },
     "done": true
   },

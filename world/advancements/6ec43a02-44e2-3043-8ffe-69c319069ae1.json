@@ -1,0 +1,163 @@
+{
+  "blazeandcave:challenges/explorer_of_worlds": {
+    "criteria": {
+      "taiga": "2021-12-03 06:34:03 +0700"
+    },
+    "done": false
+  },
+  "blazeandcave:challenges/all_the_items": {
+    "criteria": {
+      "apple": "2021-12-03 06:36:12 +0700"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/advancement_legend": {
+    "criteria": {
+      "bapple": "2021-12-03 06:36:16 +0700",
+      "animal_root": "2021-12-03 06:36:16 +0700",
+      "bacap_root": "2021-12-03 06:34:04 +0700"
+    },
+    "done": false
+  },
+  "tsurvival:tsurv.installed": {
+    "criteria": {
+      "trigger": "2021-12-03 06:34:03 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2021-12-03 06:35:12 +0700"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/all_the_blocks": {
+    "criteria": {
+      "brown_mushroom": "2021-12-03 06:35:12 +0700",
+      "dirt": "2021-12-03 06:34:29 +0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2021-12-03 06:34:03 +0700"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/root": {
+    "criteria": {
+      "location": "2021-12-03 06:34:03 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2021-12-03 06:36:15 +0700"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/animal_milestone": {
+    "criteria": {
+      "root": "2021-12-03 06:36:16 +0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_the_recipe": "2021-12-03 06:34:03 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_the_recipe": "2021-12-03 06:34:03 +0700"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/vegetarian": {
+    "criteria": {
+      "apple": "2021-12-03 06:36:15 +0700"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/one_with_the_forest": {
+    "criteria": {
+      "taiga": "2021-12-03 06:34:03 +0700"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "taiga": "2021-12-03 06:34:03 +0700"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2021-12-03 06:36:15 +0700"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/bapple": {
+    "criteria": {
+      "apple": "2021-12-03 06:36:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_the_recipe": "2021-12-03 06:34:03 +0700"
+    },
+    "done": true
+  },
+  "global:devonsdesk": {
+    "criteria": {
+      "trigger": "2021-12-03 06:34:03 +0700"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/shrooms": {
+    "criteria": {
+      "brown_mushroom": "2021-12-03 06:35:12 +0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_the_recipe": "2021-12-03 06:34:03 +0700"
+    },
+    "done": true
+  },
+  "blazeandcave:potion/a_much_more_doable_challenge": {
+    "criteria": {
+      "absorption": "2021-12-03 06:34:03 +0700",
+      "hunger": "2021-12-03 06:34:03 +0700"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/farming_milestone": {
+    "criteria": {
+      "bapple": "2021-12-03 06:36:16 +0700"
+    },
+    "done": false
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2021-12-03 06:34:03 +0700"
+    },
+    "done": true
+  },
+  "tsurvival:tsurv.root.0x.0a": {
+    "criteria": {
+      "Welcome": "2021-12-03 06:34:03 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2021-12-03 06:35:12 +0700"
+    },
+    "done": true
+  },
+  "DataVersion": 2860
+}
